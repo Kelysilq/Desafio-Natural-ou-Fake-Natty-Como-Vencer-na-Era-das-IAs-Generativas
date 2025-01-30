@@ -39,7 +39,7 @@ ChatGPT：
 O resultado foi um episódio de PodCast com caráter informativo focado em como a Inteligência Artificial tem transformado setores como a saúde, a educação e o mercado de trabalho.
 
 
-:headphones:[PodCast – IA e Inclusão: A Revolução Invisível](https://github.com/Kelysilq/Desafio-Natural-ou-Fake-Natty-Como-Vencer-na-Era-das-IAs-Generativas/blob/main/Podcast%20Intelig%C3%AAncia%20Artificial%20e%20Inclus%C3%A3o%20%E2%80%93%20A%20Revolu%C3%A7%C3%A3o%20Invis%C3%ADvel.mp3)
+:headphones:[PodCast – IA e Inclusão: A Revolução Invisível](https://github.com/Kelysilq/Desafio-Natural-ou-Fake-Natty-Como-Vencer-na-Era-das-IAs-Generativas/commit/c61f9b1cc745abb588d467caa50ff469c45e5004)
 
 ## 💭 Reflexão 
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
